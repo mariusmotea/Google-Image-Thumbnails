@@ -8,6 +8,6 @@ Run in Python3
 example:
 
 ```
-marius@XPS-13:~/$ python3 thumbnails.py "coca cola 0.5l"  
+marius@XPS-13:~/$ python3 google_thumbnails.py "coca cola 0.5l"  
 found 20 thumbnails
 ```
